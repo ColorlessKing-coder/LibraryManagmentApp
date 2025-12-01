@@ -46,8 +46,6 @@ This application provides a clean interface for managing books and personal task
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
